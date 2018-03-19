@@ -8,7 +8,7 @@ This library currently works on Python 2.7, 3.5 and 3.6. Python 3.3 and 3.4 supp
 # Installation
 
 ```
-git clone https://github.com/steemit/steem-python.git
+git clone https://github.com/causenet/steem-python.git
 cd steem-python
 python install setup.py
 ```
